@@ -7,13 +7,37 @@
 <body>
   <form method="post" action="mood.php">
     <p>
-        <label>Wat ben je aan het doen?</label>
-        <input type="text" name="activity" />
+        <label>welk dier zou je nooit als huisdier willen hebben?</label>
+        <input type="text" name="pet" />
     </p>
     
     <p>
-        <label>Wat is je favoriete instrument?</label>
-        <input type="text" name="instrument" />
+        <label>Wie is de belangerijkste persoon in je leven?</label>
+        <input type="text" name="person" />
+    </p>
+    <p>
+        <label>In welk land zou je graag willen wonen?</label>
+        <input type="text" name="land" />
+    </p>
+    <p>
+        <label>Wat doe je als je je verveeld?</label>
+        <input type="text" name="borred" />
+    </p>
+    <p>
+        <label>Met welk speelgoed speelde ja als kind het meest?</label>
+        <input type="text" name="toy" />
+    </p>
+    <p>
+        <label>Bij welke docent spijbel je het liefst?</label>
+        <input type="text" name="school" />
+    </p>
+    <p>
+        <label>als je €100.000,- had, wat zou je kopen?</label>
+        <input type="text" name="money" />
+    </p>
+    <p>
+        <label>Wat is je favoriete bezigheid?</label>
+        <input type="text" name="time" />
     </p>
     
     <p>
