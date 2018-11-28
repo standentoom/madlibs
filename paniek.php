@@ -1,5 +1,9 @@
 <html>
 <body>
+    <nav>
+        <a href="./index.php">Er heerst paniek</a>
+        <a href="./onkunde.php">Onkunde</a>
+    </nav>
     <p>
         Er heerst paniek in het koninkrijk <?php echo $_POST["land"]; ?>. Koning <?php echo $_POST["school"]; ?> is ten einde raad en als koning
         <?php echo $_POST["school"]; ?> ten einde raad is, dan roept hij zijn ten-einde-raadsheer <?php echo $_POST["person"]; ?>.
